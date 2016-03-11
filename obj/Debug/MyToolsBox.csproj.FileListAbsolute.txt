@@ -1,0 +1,11 @@
+F:\3.Soruce Code\1.C Sharp\MyToolsBox\MyToolsBox\bin\Debug\MyToolsBox.exe.config
+F:\3.Soruce Code\1.C Sharp\MyToolsBox\MyToolsBox\obj\Debug\MyToolsBox.csprojResolveAssemblyReference.cache
+F:\3.Soruce Code\1.C Sharp\MyToolsBox\MyToolsBox\obj\Debug\MyToolsBox.FormMain.resources
+F:\3.Soruce Code\1.C Sharp\MyToolsBox\MyToolsBox\obj\Debug\MyToolsBox.Properties.Resources.resources
+F:\3.Soruce Code\1.C Sharp\MyToolsBox\MyToolsBox\obj\Debug\MyToolsBox.csproj.GenerateResource.Cache
+F:\3.Soruce Code\1.C Sharp\MyToolsBox\MyToolsBox\bin\Debug\MyToolsBox.exe
+F:\3.Soruce Code\1.C Sharp\MyToolsBox\MyToolsBox\bin\Debug\MyToolsBox.pdb
+F:\3.Soruce Code\1.C Sharp\MyToolsBox\MyToolsBox\bin\Debug\GlobalHelperClass.dll
+F:\3.Soruce Code\1.C Sharp\MyToolsBox\MyToolsBox\bin\Debug\GlobalHelperClass.pdb
+F:\3.Soruce Code\1.C Sharp\MyToolsBox\MyToolsBox\obj\Debug\MyToolsBox.exe
+F:\3.Soruce Code\1.C Sharp\MyToolsBox\MyToolsBox\obj\Debug\MyToolsBox.pdb
