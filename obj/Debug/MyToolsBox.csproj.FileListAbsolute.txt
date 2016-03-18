@@ -9,3 +9,8 @@ F:\3.Soruce Code\1.C Sharp\MyToolsBox\MyToolsBox\bin\Debug\GlobalHelperClass.dll
 F:\3.Soruce Code\1.C Sharp\MyToolsBox\MyToolsBox\bin\Debug\GlobalHelperClass.pdb
 F:\3.Soruce Code\1.C Sharp\MyToolsBox\MyToolsBox\obj\Debug\MyToolsBox.exe
 F:\3.Soruce Code\1.C Sharp\MyToolsBox\MyToolsBox\obj\Debug\MyToolsBox.pdb
+F:\3.Soruce Code\1.C Sharp\MyToolsBox\MyToolsBox\bin\Debug\PluginInterface.dll
+F:\3.Soruce Code\1.C Sharp\MyToolsBox\MyToolsBox\bin\Debug\PluginInterface.pdb
+F:\3.Soruce Code\1.C Sharp\MyToolsBox\MyToolsBox\bin\Debug\W3Common.dll
+F:\3.Soruce Code\1.C Sharp\MyToolsBox\MyToolsBox\obj\Debug\MyToolsBox.GroupListView.resources
+F:\3.Soruce Code\1.C Sharp\MyToolsBox\MyToolsBox\obj\Debug\MyToolsBox.GroupListViewItem.resources
